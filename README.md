@@ -77,7 +77,7 @@ I'm passionate about creating products that feel native, use zero third-party UI
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="" width="80" alt="VORTH Icon" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/46/de/9646de69-81b6-3503-81d9-a09a29df11ed/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg" width="80" style="border-radius:18px" alt="VORTH Icon" />
       <br />
       <strong>VORTH</strong>
       <br />
@@ -99,7 +99,7 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <sub>Real-time voice coaching with Gemini Live API, PERMA journaling with emotion tracking, CloudKit sync, bilingual (EN/ES). 58 Swift files, zero third-party UI.</sub>
     </td>
     <td align="center" width="50%">
-      <img src="" width="80" alt="Pomo Icon" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/54/77/2c54776e-0094-2800-ae4a-edcebafe8312/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg" width="80" style="border-radius:18px" alt="Pomo Icon" />
       <br />
       <strong>Pomo Simple Timer</strong>
       <br />
@@ -122,7 +122,7 @@ I'm passionate about creating products that feel native, use zero third-party UI
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="" width="80" alt="WaldenVibes Icon" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/27/79/7827796b-37a6-061e-e1df-953a479c7c3c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg" width="80" style="border-radius:18px" alt="WaldenVibes Icon" />
       <br />
       <strong>WaldenVibes</strong>
       <br />
@@ -142,7 +142,7 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <sub>Curated music, breathing exercises, meditation guides, and emotion tracking for students. Glassmorphism UI with adaptive themes.</sub>
     </td>
     <td align="center" width="50%">
-      <img src="" width="80" alt="Cordis Icon" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/c1/e6/ffc1e6c5-8195-e178-8600-2eab6d8ee1dc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="80" style="border-radius:18px" alt="Cordis Icon" />
       <br />
       <strong>Cordis Cord</strong>
       <br />
@@ -163,8 +163,6 @@ I'm passionate about creating products that feel native, use zero third-party UI
     </td>
   </tr>
 </table>
-
-<!-- Replace the empty src="" in the <img> tags above with your app icon URLs or local paths -->
 
 ---
 
