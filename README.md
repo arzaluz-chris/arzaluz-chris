@@ -18,7 +18,7 @@
 
 ### About Me
 
-I'm a **general physician (M.D.)** turned **iOS developer** based in Mexico. I combine my clinical experience with software development to build apps focused on **health, wellness, and education**. Currently working as an iOS Developer at **HSBC** and finishing my B.S. in Computer Systems Engineering.
+I'm a **general physician (M.D.)** turned **iOS developer** based in Mexico. I combine my clinical experience with software development to build apps focused on **health, wellness, and education**. Currently working as an iOS Developer at **HSBC**. I hold a B.S. in Computer Systems Engineering.
 
 I'm passionate about creating products that feel native, use zero third-party UI dependencies, and solve real problems. Most of my apps are bilingual (English & Spanish) and follow Apple's Human Interface Guidelines with custom glassmorphism design systems.
 
