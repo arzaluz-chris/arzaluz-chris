@@ -29,7 +29,7 @@ I'm passionate about creating products that feel native, use zero third-party UI
 - I hold a **Medical Doctor** degree and a background in clinical medicine
 - I speak **Spanish** (native) and **English** fluently
 - I've published **4 apps on the App Store** and built 10+ iOS projects
-- I love combining **AI + health/wellness** in my apps (Gemini, Firebase AI)
+- I love combining **AI + health/wellness** in my apps (Gemini, Firebase AI, Apple Intelligence)
 - Every app I build ships with **zero third-party UI dependencies**
 - I build my own **design systems** from scratch (glassmorphism, adaptive themes)
 - My portfolio site is an **interactive macOS simulator** — check it out at [chrisarzaluz.dev](https://chrisarzaluz.dev)
@@ -38,33 +38,13 @@ I'm passionate about creating products that feel native, use zero third-party UI
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
-  &nbsp;
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="36" height="36" alt="SwiftUI" />
-  &nbsp;
-  <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" width="36" height="36" alt="Xcode" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,xcode,git,js,ts,html,css,python,kotlin,firebase,figma" alt="Languages & Tools" />
+  </a>
 </p>
 
-**Apple Frameworks:** SwiftUI, SwiftData, CloudKit, HealthKit, MusicKit, ActivityKit, WidgetKit, WatchConnectivity, CoreHaptics, Swift Charts, AVFoundation, AuthenticationServices
+**Apple Frameworks:** SwiftUI, SwiftData, CloudKit, HealthKit, MusicKit, ActivityKit, WidgetKit, WatchConnectivity, CoreHaptics, Swift Charts, AVFoundation, AuthenticationServices, Foundation Models (Apple Intelligence)
 
 **AI & APIs:** Google Gemini API, Firebase AI Logic SDK, REST APIs
 
@@ -171,6 +151,36 @@ I'm passionate about creating products that feel native, use zero third-party UI
 <table>
   <tr>
     <td align="center" width="33%">
+      <strong>Lumina</strong>
+      <br />
+      <sub>Character strengths with Apple Intelligence</sub>
+      <br /><br />
+      <a href="https://chrisarzaluz.dev/lumina/">
+        <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=safari&logoColor=white" height="24" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/iOS_26-000?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apple_Intelligence-F05138?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" />
+      <br />
+      <sub>96-question VIA test, 24 strengths, on-device AI analysis via Foundation Models. Built for Colegio Walden Dos. Zero data collected.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>TeddyFeels</strong>
+      <br />
+      <sub>Emotional wellness for kids 6-12</sub>
+      <br /><br />
+      <a href="https://github.com/arzaluz-chris/TeddyFeels">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Speech-555?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lottie-005BAC?style=flat-square&logo=lottiefiles&logoColor=white" />
+      <br />
+      <sub>Emotion check-in with animated teddy, PIN-locked journal, voice notes with local transcription, SOS breathing mode. 100% offline.</sub>
+    </td>
+    <td align="center" width="33%">
       <strong>Alba</strong>
       <br />
       <sub>AI friendship wellness coach</sub>
@@ -184,6 +194,8 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <br />
       <sub>PERMA-based friendship assessments, AI chat coach, friendship journal, Apple Music integration. 100% native frameworks.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <strong>MediLingo</strong>
       <br />
@@ -209,8 +221,6 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <br />
       <sub>Calculate Bishop score for pregnant patients. Where my medical and dev backgrounds meet.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <strong>Portfolio</strong>
       <br />
@@ -225,6 +235,8 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <br />
       <sub>A full macOS desktop simulation with draggable windows, Finder, Terminal, and app showcases. Pure JS/HTML/CSS.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <strong>IMSS Calculator</strong>
       <br />
@@ -237,6 +249,8 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <br />
       <sub>Calculate your score for medical specialty admissions at IMSS (Mexico's public health system).</sub>
+    </td>
+    <td align="center" width="33%">
     </td>
     <td align="center" width="33%">
     </td>
