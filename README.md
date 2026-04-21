@@ -40,7 +40,7 @@ I'm passionate about creating products that feel native, use zero third-party UI
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,xcode,git,js,ts,html,css,python,kotlin,firebase,figma" alt="Languages & Tools" />
+    <img src="https://skillicons.dev/icons?i=swift,git,js,ts,html,css,python,kotlin,firebase,figma" alt="Languages & Tools" />
   </a>
 </p>
 
