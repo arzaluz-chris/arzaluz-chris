@@ -28,7 +28,7 @@ I'm passionate about creating products that feel native, use zero third-party UI
 
 - I hold a **Medical Doctor** degree and a background in clinical medicine
 - I speak **Spanish** (native) and **English** fluently
-- I've published **4 apps on the App Store** and built 10+ iOS projects
+- I've published **6 apps on the App Store** and built 10+ iOS projects
 - I love combining **AI + health/wellness** in my apps (Gemini, Firebase AI, Apple Intelligence)
 - Every app I build ships with **zero third-party UI dependencies**
 - I build my own **design systems** from scratch (glassmorphism, adaptive themes)
@@ -142,6 +142,50 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <sub>Apple Watch BPM reading, AI health assistant, guided breathing, real-time audio visualization, Swift Charts analytics. Team project (9 devs).</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/b0/86/d9b08658-b678-4731-0b43-beb293da0891/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="80" style="border-radius:18px" alt="Alba Icon" />
+      <br />
+      <strong>Alba</strong>
+      <br />
+      <sub>AI relationship & friendship advisor</sub>
+      <br /><br />
+      <a href="https://apps.apple.com/us/app/alba-ai-relationship-advisor/id6761395418">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="28" />
+      </a>
+      <a href="https://github.com/arzaluz-chris/Alba">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/MusicKit-FA243C?style=flat-square&logo=apple-music&logoColor=white" />
+      <img src="https://img.shields.io/badge/LocalAuth-555?style=flat-square&logo=apple&logoColor=white" />
+      <br /><br />
+      <sub>PERMA-based friendship assessments, AI chat coach, friendship journal (PIN + Face ID), Apple Music integration, bilingual (EN/ES). 100% native frameworks.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/af/de/aaafde53-71ab-b4f4-8aa6-5d0602689b66/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg" width="80" style="border-radius:18px" alt="TeddyFeels Icon" />
+      <br />
+      <strong>TeddyFeels</strong>
+      <br />
+      <sub>Emotional wellness for kids 6-12</sub>
+      <br /><br />
+      <a href="https://apps.apple.com/us/app/teddyfeels/id6761302473">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" height="28" />
+      </a>
+      <a href="https://github.com/arzaluz-chris/TeddyFeels">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+      </a>
+      <br /><br />
+      <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Speech-555?style=flat-square&logo=apple&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lottie-005BAC?style=flat-square&logo=lottiefiles&logoColor=white" />
+      <br /><br />
+      <sub>Emotion check-in with animated teddy, PIN-locked journal, voice notes with local transcription, SOS breathing mode. 100% offline, no data collected.</sub>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -165,37 +209,6 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <br />
       <sub>96-question VIA test, 24 strengths, on-device AI analysis via Foundation Models. Built for Colegio Walden Dos. Zero data collected.</sub>
     </td>
-    <td align="center" width="33%">
-      <strong>TeddyFeels</strong>
-      <br />
-      <sub>Emotional wellness for kids 6-12</sub>
-      <br /><br />
-      <a href="https://github.com/arzaluz-chris/TeddyFeels">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
-      </a>
-      <br /><br />
-      <img src="https://img.shields.io/badge/SwiftData-F05138?style=flat-square&logo=swift&logoColor=white" />
-      <img src="https://img.shields.io/badge/Speech-555?style=flat-square&logo=apple&logoColor=white" />
-      <img src="https://img.shields.io/badge/Lottie-005BAC?style=flat-square&logo=lottiefiles&logoColor=white" />
-      <br />
-      <sub>Emotion check-in with animated teddy, PIN-locked journal, voice notes with local transcription, SOS breathing mode. 100% offline.</sub>
-    </td>
-    <td align="center" width="33%">
-      <strong>Alba</strong>
-      <br />
-      <sub>AI friendship wellness coach</sub>
-      <br /><br />
-      <a href="https://github.com/arzaluz-chris/Alba">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="24" />
-      </a>
-      <br /><br />
-      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/MusicKit-FA243C?style=flat-square&logo=apple-music&logoColor=white" />
-      <br />
-      <sub>PERMA-based friendship assessments, AI chat coach, friendship journal, Apple Music integration. 100% native frameworks.</sub>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <strong>MediLingo</strong>
       <br />
@@ -221,6 +234,8 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <br />
       <sub>Calculate Bishop score for pregnant patients. Where my medical and dev backgrounds meet.</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <strong>Portfolio</strong>
       <br />
@@ -235,8 +250,6 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <br />
       <sub>A full macOS desktop simulation with draggable windows, Finder, Terminal, and app showcases. Pure JS/HTML/CSS.</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <strong>IMSS Calculator</strong>
       <br />
@@ -249,8 +262,6 @@ I'm passionate about creating products that feel native, use zero third-party UI
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <br />
       <sub>Calculate your score for medical specialty admissions at IMSS (Mexico's public health system).</sub>
-    </td>
-    <td align="center" width="33%">
     </td>
     <td align="center" width="33%">
     </td>
